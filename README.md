@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="https://github.com/thorphar/thorphar/blob/main/assets/thorphar.gif" width="1800" height="492">
+	<img src="https://github.com/thorphar/thorphar/blob/main/assets/thorphar.gif" width="1800" height="380">
 </div>
 
 # I am Harry Thorpe. 
