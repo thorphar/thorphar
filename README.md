@@ -1,11 +1,3 @@
-<div align="center">
-	<br>
-	<img src="https://github.com/thorphar/thorphar/blob/main/assets/thorphar.gif" width="1800" height="380">
-</div>
-
-# I am Harry Thorpe. 
-## I am a robotics engineer.
-
 <!--
 **thorphar/thorphar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
